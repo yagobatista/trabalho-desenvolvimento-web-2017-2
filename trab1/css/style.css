@@ -1,0 +1,182 @@
+/* YOUR CUSTOM STYLES */
+.grid{
+margin-top: 10%;
+}
+.grid2{
+width: 40%;
+margin-left: 30%;
+}
+.habilidade{
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.sessao{
+  margin-top: 2em;
+  padding-top:2em;
+}
+.sessao h2{
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.carousel-indicators .active {
+    background-color: #000;
+}
+.carousel-indicators li {
+    background-color: #555;
+}
+.carousel-indicators{
+  bottom: -40px;
+}
+h1{
+color:#267DDD;
+font-size: 5em;
+}
+h2 {
+    color: #267DDD;
+  text-align: center;
+  font-size: 2.5em;
+}
+.list-gostos{
+  padding:0px;
+}
+.list-gostos li{
+  list-style-type: none;
+  font-size: 1.5em;
+  text-align: center
+}
+.btn-azul{
+ color: #267DDD !important;
+}
+.fundo-azul{
+ background-color: #267DDD !important;
+ color:#fff;
+}
+.fundo-azul .navbar-brand{
+ color: #fff !important;
+}
+p {
+    color: #555;
+    font-family: fantasy;
+    font-size: 1.4em;
+    text-align: justify;
+}
+.img-circle {
+   border-radius: 50%;
+   width: 100%;
+}
+/*progress*/
+.progress {
+    position: relative;
+	height: 25px;
+   ;
+}
+.progress-bar-azul{
+  background-color: #267DDD;
+}
+.progress > .progress-type {
+	position: absolute;
+	left: 0px;
+	font-weight: 800;
+	padding: 3px 30px 2px 10px;
+	color: rgb(255, 255, 255);
+	background-color: rgba(25, 25, 25, 0.2);
+}
+.progress > .progress-completed {
+	position: absolute;
+	right: 0px;
+	font-weight: 800;
+	padding: 3px 10px 2px;
+}
+/* Custom Styles */
+body{
+	position: relative; /* required */
+}
+ul.nav-tabs {
+	width: 140px;
+	margin-top: 20px;
+	border-radius: 4px;
+    background: #fff;
+    z-index: 999;
+	border: 1px solid #ddd;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.067);
+}
+ul.nav-tabs li {
+	margin: 0;
+	border-top: 1px solid #ddd;
+}
+ul.nav-tabs li:first-child {
+	border-top: none;
+}
+ul.nav-tabs li a {
+	margin: 0;
+	padding: 8px 16px;
+	border-radius: 0;
+}
+ul.nav-tabs li.active a, ul.nav-tabs li.active a:hover {
+	color: #fff;
+	background: #0088cc;
+	border: 1px solid #0088cc;
+}
+ul.nav-tabs li:first-child a {
+	border-radius: 4px 4px 0 0;
+}
+ul.nav-tabs li:last-child a {
+	border-radius: 0 0 4px 4px;
+}
+ul.nav-tabs.affix {
+	top: 0px; /* set the top position of pinned element */
+}
+@media screen and (min-width: 992px) and (max-width: 1199px){
+    ul.nav-tabs{
+        width: 180px; /* set nav width on medium devices */
+    }
+}
+@media screen and (min-width: 1200px){
+    ul.nav-tabs{
+        width: 220px; /* set nav width on large devices */
+    }
+}
+.nav > li > a:hover{
+  background-color: transparent;
+}
+small{
+  font-size: 150%;
+}
+body{
+position:relative;
+}
+.affix {
+  top: 100px;
+position: fixed;
+
+}
+.affix-top {
+  top: 100px;
+position: absolute;
+}ul.lista li{
+width:100%;
+}
+ul.lista li a{
+color:#0275d8;
+}
+a:focus,a:active,a:visited{
+color: inherit;
+}
+.nav.lista{
+display: inline;
+}
+@media (max-width:768px) {
+  h1{
+font-size: 3em;
+}
+.grid2{
+width: 60%;
+margin-left: 20%;
+}
+}
+@media (max-width:400px) {
+.grid2{
+width: 80%;
+margin-left: 10%;
+}
+}

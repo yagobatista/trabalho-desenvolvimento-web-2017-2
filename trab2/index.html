@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <title>jQuery</title>
+</head>
+<body>
+    <div class="container">
+        <br>
+        <h2 class="text-center">Trabalho com jQuery</h2>
+        <br>
+        <div class="row">
+            <div class="col-xs-12">
+                <form class="form-horizontal">
+
+                    <div id="fbHasError" class="form-group  has-feedback">
+                        <label class="col-sm-2 control-label" for="nome">Nome</label>
+                        <div class="col-sm-8">
+                            <input id="nome" class="form-control" type="text" placeholder="Nome">
+                            <span id="fbRemove" class="glyphicon glyphicon-remove form-control-feedback hide"></span>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-8 col-sm-offset-2">
+                            <button id="btn-salvar" type="button" class="btn btn-primary"><span class="glyphicon glyphicon-save"></span> Enviar</button>
+                        </div>
+                    </div>
+                    <br/>
+                </form>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-6">
+                <h3>Lista 1</h3>
+                <div class="table-responsive table-bordered table-striped">
+                    <table id="tab1" class="table">
+                        <col width="78%">
+                        <col width="22%">
+                        <thead>
+                            <tr>
+                                <th>Nome</th>
+                                <th>Operação</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Roberto Arruda</td>
+                                <td><a href="#" class="btn btn-primary btn-sm lista1">Mover</a></td>
+                            </tr>
+                            <tr>
+                                <td>Carlos Nogueira</td>
+                                <td><a href="#" class="btn btn-primary btn-sm lista1">Mover</a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="col-sm-6">
+                <h3>Lista 2</h3>
+                <div class="table-responsive table-bordered table-striped">
+                    <table id="tab2" class="table">
+                        <col width="78%">
+                        <col width="22%">
+                        <thead>
+                            <tr>
+                                <th>Nome</th>
+                                <th>Operação</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Joana Arnaldo</td>
+                                <td><a href="#" class="btn btn-primary btn-sm lista2">Remover</a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <br>
+        <br>
+    </div>
+    <script src="js/jquery-1.12.4.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

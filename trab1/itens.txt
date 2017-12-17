@@ -1,0 +1,10 @@
+modal -> sessao portfólio
+caroussel -> sessao recomendações
+progress bar -> sessao de habilidade e caracteristicas
+scrollspy ->  nav lateral
+affix -> nav lateral
+list group -> nav lateral
+page-header -> perfil
+botao loading -> sessao de contatos
+button group -> sessao de contatos
+badge -> sessao de contatos
