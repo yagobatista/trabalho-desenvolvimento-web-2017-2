@@ -1,6 +1,6 @@
 # trabalho-desenvolvimento-web-2017-2
 Trabalho de disciplina de desenvolvimento web 2017-2 (uff)
-## trab 1
+## Trab 1
 Criar um site sobre qualquer assunto utilizando o framework bootstrap (versão 3.3.7).
 Foram utilizados os seguintes componentes do bootstrap
 Modal -> sessão portfólio
@@ -13,11 +13,11 @@ Page-header -> perfil
 Botão loading -> sessão de contatos
 Button group -> sessão de contatos
 Badge -> sessão de contatos
-## trab2
+## Trab2
 Implementar em jquery os comportamentos desejados pelo professor
-## trab3
+## Trab3
 Implementar em jquery os comportamentos desejados pelo professor
-## trab4
+## Trab4
 Alterar o trabalho número 1 de forma que todas as imagens e textos relativos a estas imagens sejam recuperados do banco de dados.  
   
 
