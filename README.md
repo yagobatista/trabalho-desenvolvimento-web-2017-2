@@ -3,16 +3,16 @@ Trabalho de disciplina de desenvolvimento web 2017-2 (uff)
 ## Trab 1
 Criar um site sobre qualquer assunto utilizando o framework bootstrap (versão 3.3.7).
 Foram utilizados os seguintes componentes do bootstrap
-Modal -> sessão portfólio
-Caroussel -> sessão recomendações
-Progress bar -> sessão de habilidade e características
-Scrollspy ->  nav lateral
-Affix -> nav lateral
-List group -> nav lateral
-Page-header -> perfil
-Botão loading -> sessão de contatos
-Button group -> sessão de contatos
-Badge -> sessão de contatos
+Modal -> sessão portfólio</br>
+Caroussel -> sessão recomendações</br>
+Progress bar -> sessão de habilidade e características</br>
+Scrollspy ->  nav lateral</br>
+Affix -> nav lateral</br>
+List group -> nav lateral</br>
+Page-header -> perfil</br>
+Botão loading -> sessão de contatos</br>
+Button group -> sessão de contatos</br>
+Badge -> sessão de contatos</br>
 ## Trab 2
 Implementar em jquery os comportamentos desejados pelo professor.
 ## Trab 3
