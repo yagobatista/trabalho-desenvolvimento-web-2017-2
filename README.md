@@ -13,11 +13,11 @@ Page-header -> perfil
 Botão loading -> sessão de contatos
 Button group -> sessão de contatos
 Badge -> sessão de contatos
-## Trab2
+## Trab 2
 Implementar em jquery os comportamentos desejados pelo professor
-## Trab3
+## Trab 3
 Implementar em jquery os comportamentos desejados pelo professor
-## Trab4
+## Trab 4
 Alterar o trabalho número 1 de forma que todas as imagens e textos relativos a estas imagens sejam recuperados do banco de dados.  
   
 
