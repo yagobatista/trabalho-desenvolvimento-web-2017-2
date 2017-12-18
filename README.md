@@ -2,7 +2,7 @@
 Trabalho de disciplina de desenvolvimento web 2017-2 (uff)
 ## Trab 1
 Criar um site sobre qualquer assunto utilizando o framework bootstrap (versão 3.3.7).
-Foram utilizados os seguintes componentes do bootstrap
+Foram utilizados os seguintes componentes do bootstrap:</br>
 Modal -> sessão portfólio</br>
 Caroussel -> sessão recomendações</br>
 Progress bar -> sessão de habilidade e características</br>
