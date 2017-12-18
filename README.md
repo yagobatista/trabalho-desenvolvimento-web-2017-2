@@ -14,10 +14,13 @@ Botão loading -> sessão de contatos
 Button group -> sessão de contatos
 Badge -> sessão de contatos
 ## Trab 2
-Implementar em jquery os comportamentos desejados pelo professor
+Implementar em jquery os comportamentos desejados pelo professor.
 ## Trab 3
-Implementar em jquery os comportamentos desejados pelo professor
+Implementar em jquery os comportamentos desejados pelo professor.
 ## Trab 4
 Alterar o trabalho número 1 de forma que todas as imagens e textos relativos a estas imagens sejam recuperados do banco de dados.  
-  
-
+## Trab 5
+Aterar o trabalho número 4 de forma a implementar um carrinho de compras para o seu site.
+Como não fazia sentido no meu trabalho um carrinho de compras, eu tomei como partida o front-end de um projeto em que trabalhei e implementei o carrinho de compras lá.
+## Trab 7
+Implementar a atualização do valores do carrinho de compra via ajax.
